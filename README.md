@@ -49,8 +49,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/ISMAIL-AHMED-SHAH/ISMAIL-AHMED-SHAH/output/github-contribution-grid-snake.svg" /> -->
-  <img src="https://raw.githubusercontent.com/ISMAIL-AHMED-SHAH/ISMAIL-AHMED-SHAH/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ffcc" />
+  <img src="https://raw.githubusercontent.com/ISMAIL-AHMED-SHAH/ISMAIL-AHMED-SHAH/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=00ffcc" />
+  <!-- <img src="https://raw.githubusercontent.com/ISMAIL-AHMED-SHAH/ISMAIL-AHMED-SHAH/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ffcc" /> -->
 </p>
 
 ---
