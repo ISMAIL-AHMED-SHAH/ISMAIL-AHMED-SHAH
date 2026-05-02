@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ismail Ahmed Shah</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate Learner | Problem Solver</h3>
 
